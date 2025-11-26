@@ -11,5 +11,5 @@ import TodoList from './TodoList.vue'
     </div>
 </template>
 
-<style scoped>
+<style>
 </style>
