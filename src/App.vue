@@ -4,6 +4,7 @@
 
 <template>
   <todo-app />
+  TODO APP (parent)
 </template>
 
 <style>
